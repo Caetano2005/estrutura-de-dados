@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caetano\\Desktop\\aula\\Estudo-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80C518C0-A3CD-4A39-A421-910E75D6C0F8}|Estudo-6\\Estudo-6.vcxproj|C:\\Users\\Caetano\\Desktop\\aula\\Estudo-6\\Estudo-6\\Origem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80C518C0-A3CD-4A39-A421-910E75D6C0F8}|Estudo-6\\Estudo-6.vcxproj|solutionrelative:Estudo-6\\Origem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Origem.cpp",
+              "DocumentMoniker": "C:\\Users\\Caetano\\Desktop\\aula\\Estudo-6\\Estudo-6\\Origem.cpp",
+              "RelativeDocumentMoniker": "Estudo-6\\Origem.cpp",
+              "ToolTip": "C:\\Users\\Caetano\\Desktop\\aula\\Estudo-6\\Estudo-6\\Origem.cpp",
+              "RelativeToolTip": "Estudo-6\\Origem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T22:52:49.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

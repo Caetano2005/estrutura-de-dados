@@ -1,0 +1,10 @@
+﻿  conferir.cpp
+C:\Users\Caetano\Desktop\aula\Playlist\Playlist\lista.h(4,16): warning C4091: 'typedef ': ignorado à esquerda de 'LISTA' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'conferir.cpp')
+  
+  inserir.cpp
+C:\Users\Caetano\Desktop\aula\Playlist\Playlist\lista.h(4,16): warning C4091: 'typedef ': ignorado à esquerda de 'LISTA' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'inserir.cpp')
+  
+  Gerando Código...
+  Playlist.vcxproj -> C:\Users\Caetano\Desktop\aula\Playlist\x64\Debug\Playlist.exe

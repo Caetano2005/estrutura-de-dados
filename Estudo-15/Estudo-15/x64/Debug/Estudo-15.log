@@ -1,0 +1,5 @@
+﻿  inserir.cpp
+C:\Users\Caetano\Desktop\aula\Estudo-15\Estudo-15\Lista.h(4,16): warning C4091: 'typedef ': ignorado à esquerda de 'LISTA' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'inserir.cpp')
+  
+  Estudo-15.vcxproj -> C:\Users\Caetano\Desktop\aula\Estudo-15\x64\Debug\Estudo-15.exe

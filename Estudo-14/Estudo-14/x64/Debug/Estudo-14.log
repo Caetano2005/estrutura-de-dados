@@ -1,0 +1,6 @@
+﻿  chamarCescolhendo.cpp
+  menu.cpp
+  Gerando Código...
+C:\Users\Caetano\Desktop\aula\Estudo-14\Estudo-14\menu.cpp(4,23): warning C4101: 'op2': variável local não referenciada
+C:\Users\Caetano\Desktop\aula\Estudo-14\Estudo-14\menu.cpp(4,19): warning C4101: 'op': variável local não referenciada
+  Estudo-14.vcxproj -> C:\Users\Caetano\Desktop\aula\Estudo-14\x64\Debug\Estudo-14.exe

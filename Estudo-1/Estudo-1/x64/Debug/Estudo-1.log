@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+C:\Users\Caetano\Desktop\aula\Estudo-1\Estudo-1\Origem.cpp(10,9): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'int *'
+C:\Users\Caetano\Desktop\aula\Estudo-1\Estudo-1\Origem.cpp(10,9): warning C4313: 'printf': '%d' na cadeia de formato está em conflito com o argumento 1 do tipo 'int *'
+C:\Users\Caetano\Desktop\aula\Estudo-1\Estudo-1\Origem.cpp(11,9): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'int **'
+C:\Users\Caetano\Desktop\aula\Estudo-1\Estudo-1\Origem.cpp(11,9): warning C4313: 'printf': '%d' na cadeia de formato está em conflito com o argumento 1 do tipo 'int **'
+  Estudo-1.vcxproj -> C:\Users\Caetano\Desktop\aula\Estudo-1\x64\Debug\Estudo-1.exe

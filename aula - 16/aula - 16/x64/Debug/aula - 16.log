@@ -1,0 +1,7 @@
+﻿  bBinaria.cpp
+  bLInear.cpp
+  Origem.cpp
+  quick.cpp
+C:\Users\Caetano\Desktop\aula\aula - 16\aula - 16\Origem.cpp(5,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Gerando Código...
+C:\Users\Caetano\Desktop\aula\aula - 16\aula - 16\quick.cpp(37,1): error C4716: 'particiona': deve retornar um valor

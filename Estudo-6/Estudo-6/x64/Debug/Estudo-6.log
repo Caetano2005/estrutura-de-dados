@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\Caetano\Desktop\aula\Estudo-6\Estudo-6\Origem.cpp(12,2): warning C4098: 'maior': função 'void' retornando um valor
+  Estudo-6.vcxproj -> C:\Users\Caetano\Desktop\aula\Estudo-6\x64\Debug\Estudo-6.exe

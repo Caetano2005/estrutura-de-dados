@@ -1,0 +1,9 @@
+﻿  menu.cpp
+C:\Users\Caetano\Desktop\aula\Estudo-13\Estudo-13\Pilha.h(5,16): warning C4091: 'typedef ': ignorado à esquerda de 'PILHA' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'menu.cpp')
+  
+C:\Users\Caetano\Desktop\aula\Estudo-13\Estudo-13\menu.cpp(25,12): warning C4477: 'scanf_s': a cadeia de formato '%[^\n]' requer um argumento do tipo 'unsigned int', mas um argumento variadic 2 tem o tipo 'unsigned __int64'
+      C:\Users\Caetano\Desktop\aula\Estudo-13\Estudo-13\menu.cpp(25,12):
+      esse argumento é usado como um tamanho do buffer
+  
+  Estudo-13.vcxproj -> C:\Users\Caetano\Desktop\aula\Estudo-13\x64\Debug\Estudo-13.exe

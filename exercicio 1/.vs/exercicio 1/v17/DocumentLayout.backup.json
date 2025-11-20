@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caetano\\Desktop\\aula\\exercicio 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{969DC163-DCE9-4AF7-98E6-2B87ECD150BF}|exercicio 1\\exercicio 1.vcxproj|C:\\Users\\Caetano\\Desktop\\aula\\exercicio 1\\exercicio 1\\Origem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{969DC163-DCE9-4AF7-98E6-2B87ECD150BF}|exercicio 1\\exercicio 1.vcxproj|solutionrelative:exercicio 1\\Origem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Origem.c",
+              "DocumentMoniker": "C:\\Users\\Caetano\\Desktop\\aula\\exercicio 1\\exercicio 1\\Origem.c",
+              "RelativeDocumentMoniker": "exercicio 1\\Origem.c",
+              "ToolTip": "C:\\Users\\Caetano\\Desktop\\aula\\exercicio 1\\exercicio 1\\Origem.c",
+              "RelativeToolTip": "exercicio 1\\Origem.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-25T04:07:04.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
